@@ -1,5 +1,5 @@
 # github.com-Sanss25
-# Hi there 👋 I'm [Your Name]
+# Hi there! I'm Sanskruti
 
 🎓 CSE (AI/ML) @ VIT Bhopal  
 🚀 Exploring the world of Generative AI, Product-focused ML, and AI Innovation  
